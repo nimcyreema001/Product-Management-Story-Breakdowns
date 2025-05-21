@@ -1,5 +1,3 @@
-# Product-Management-Story-Breakdowns
-
 # Product Management Story Breakdowns
 
 Welcome to my 14-day product management deep dive, where I analyze products using storytelling, emotional impact, and PM thinking.
